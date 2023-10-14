@@ -1,0 +1,8 @@
+
+5|seoul|Korea|4|2333|||||||||||||||
+051|Sydney|Australia|20|95000|||||||||
+56|tajmahal|india|3|3444|||||||||||
+98|tajmahal|india|2|2220|||||||||||
+998|udupi|india|4|3000||||||||||||
+098|seoul|korea|6|20000||||||||||||
+67|lasvegas|America|30|70999||||||||
